@@ -1,0 +1,36 @@
+    body {
+    margin: 0;
+    box-sizing: border-box;
+    }
+
+    h1 {
+    text-align: center;
+    }
+
+    .container {
+        display: flex;
+        align-content: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+.input {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+}
+    #weather {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    } 
+
+
+.imgDiv {
+    display: flex;
+}
+    .img {
+    width: 450px;
+    height: 200px;
+    }
